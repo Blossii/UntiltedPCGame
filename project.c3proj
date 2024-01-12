@@ -1,0 +1,300 @@
+{
+	"projectFormatVersion": 1,
+	"savedWithRelease": 36802,
+	"name": "Untitled PC Game",
+	"runtime": "c3",
+	"useWorker": "auto",
+	"bundleAddons": false,
+	"usedAddons": [
+		{
+			"type": "plugin",
+			"id": "Button",
+			"name": "Button",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Sprite",
+			"name": "Sprite",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Text",
+			"name": "Text",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "TiledBg",
+			"name": "Tiled Background",
+			"author": "Scirra",
+			"bundled": false
+		}
+	],
+	"uniqueId": "48isfrhhamo",
+	"objectTypes": {
+		"items": [
+			"Siguiente",
+			"Texto",
+			"Into",
+			"FondoEnMosaico",
+			"Texto2",
+			"Correcta1",
+			"Erronea11",
+			"Erronea12",
+			"Skip",
+			"Texto3",
+			"Botón",
+			"Texto4",
+			"Volver",
+			"Texto5",
+			"Botón3",
+			"Botón4",
+			"Botón5",
+			"Botón6",
+			"Botón7",
+			"Botón8",
+			"Botón9",
+			"Botón10",
+			"Botón11",
+			"Botón12",
+			"Botón13",
+			"Botón14",
+			"Botón15",
+			"Botón16",
+			"Botón17",
+			"Botón18",
+			"Botón19",
+			"Botón20",
+			"Botón21",
+			"Botón22",
+			"Botón23",
+			"Botón24",
+			"Correcta",
+			"Correcta2",
+			"Correcta3",
+			"Corrrecta4",
+			"Correcta5",
+			"Correcta6",
+			"Reiniciar",
+			"e9ff1f4d69bd9a2c370d",
+			"Sprite",
+			"fondoProcesador",
+			"FondoGráfica",
+			"e9ff1f4d69bd9a2c370d2",
+			"Sprite2",
+			"fondoProcesador2",
+			"Sprite3"
+		],
+		"subfolders": []
+	},
+	"autosaveData": null,
+	"containers": [],
+	"families": {
+		"items": [],
+		"subfolders": []
+	},
+	"layouts": {
+		"items": [
+			"Inicio",
+			"Contexto",
+			"Te la come sin pretexto",
+			"Pregunta 1",
+			"Respuesta erronea 1",
+			"Respuesta correcta 1",
+			"Siquiente personaje 1",
+			"Dialogo 2",
+			"Pregunta 2",
+			"Respuesta erronea 2",
+			"Respuesta correcta 2",
+			"Siguiente personaje 2",
+			"Dialogo 3",
+			"Pregunta 3",
+			"Respuesta erronea 3",
+			"Repsueta correcta 3",
+			"Siguiente perosnaje 3",
+			"Dialogo 4",
+			"Pregunta 4",
+			"Respuesta erronea 4",
+			"Respuesta correcta 4",
+			"Final 4",
+			"Dialogo 5",
+			"Pregunta 5",
+			"Respuesta erronea 5",
+			"Respuesta correcta 5",
+			"Final 5",
+			"Dialogo 6",
+			"Pregunta 6",
+			"Respuesta erronea 6",
+			"Resuesta correcta 6",
+			"Final 6",
+			"Final"
+		],
+		"subfolders": []
+	},
+	"eventSheets": {
+		"items": [
+			"Hoja de eventos 1"
+		],
+		"subfolders": []
+	},
+	"rootFileFolders": {
+		"script": {
+			"items": [],
+			"subfolders": []
+		},
+		"sound": {
+			"items": [],
+			"subfolders": []
+		},
+		"music": {
+			"items": [],
+			"subfolders": []
+		},
+		"video": {
+			"items": [],
+			"subfolders": []
+		},
+		"font": {
+			"items": [],
+			"subfolders": []
+		},
+		"icon": {
+			"items": [
+				{
+					"name": "icono-32.png",
+					"type": "image/png",
+					"sid": 530399854933955,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-64.png",
+					"type": "image/png",
+					"sid": 886838300924900,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-128.png",
+					"type": "image/png",
+					"sid": 675928664435421,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-256.png",
+					"type": "image/png",
+					"sid": 494548683511078,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-512.png",
+					"type": "image/png",
+					"sid": 365616306277072,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "logo-carga.png",
+					"type": "image/png",
+					"sid": 652422321680706,
+					"icon-info": {
+						"purpose": "loading-logo"
+					}
+				},
+				{
+					"name": "icono-16.png",
+					"type": "image/png",
+					"sid": 874317779914933,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				}
+			],
+			"subfolders": []
+		},
+		"general": {
+			"items": [],
+			"subfolders": []
+		}
+	},
+	"timelines": {
+		"items": [
+			"Línea de tiempo 1"
+		],
+		"subfolders": [
+			{
+				"items": [],
+				"subfolders": []
+			}
+		]
+	},
+	"properties": {
+		"description": "",
+		"version": "1.0.0.0",
+		"author": "",
+		"authorEmail": "",
+		"authorWebsite": "",
+		"appId": "",
+		"pixelRounding": false,
+		"zAxisScale": "normalized",
+		"fov": 0.7853981633974483,
+		"useLoaderLayout": false,
+		"fullscreenMode": "letterbox-scale",
+		"fullscreenQuality": "high",
+		"viewportFit": "auto",
+		"backgroundColor": [
+			0,
+			0,
+			0,
+			0
+		],
+		"splashColor": [
+			1,
+			1,
+			1,
+			0
+		],
+		"useThemeColor": false,
+		"themeColor": [
+			1,
+			1,
+			1,
+			0
+		],
+		"orientations": "landscape",
+		"webgpu": "auto",
+		"gpuPreference": "high-performance",
+		"scriptsType": "module",
+		"framerateMode": "vsync",
+		"compositingMode": "standard",
+		"sampling": "trilinear",
+		"downscaling": "medium",
+		"renderingMode": "auto",
+		"anisotropicFiltering": "auto",
+		"zNear": 1,
+		"zFar": 10000,
+		"maxSpriteSheetSize": 2048,
+		"loaderStyle": "splash",
+		"preloadSounds": true,
+		"cordovaiOSScheme": "app",
+		"cordovaAndroidScheme": "https",
+		"autoReloadScriptsOnPreview": false,
+		"exportFileStructure": "folders",
+		"uidAllocationMode": "increment"
+	},
+	"viewportWidth": 854,
+	"viewportHeight": 480,
+	"firstLayout": null
+}

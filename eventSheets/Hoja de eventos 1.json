@@ -1,0 +1,216 @@
+{
+	"name": "Hoja de eventos 1",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Siguiente",
+					"sid": 181623923695800
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-nextprevious-layout",
+					"objectClass": "System",
+					"sid": 523737598316192,
+					"parameters": {
+						"which": "next"
+					}
+				}
+			],
+			"sid": 428895266030688
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Skip",
+					"sid": 846677721351000
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-nextprevious-layout",
+					"objectClass": "System",
+					"sid": 122348180544938,
+					"parameters": {
+						"which": "next"
+					}
+				}
+			],
+			"sid": 277371195382460
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Volver",
+					"sid": 456827755488987
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-nextprevious-layout",
+					"objectClass": "System",
+					"sid": 460710960568912,
+					"parameters": {
+						"which": "previous"
+					}
+				}
+			],
+			"sid": 150994971973024
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Correcta",
+					"sid": 682955984369621
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 322373821449432,
+					"parameters": {
+						"layout": "Respuesta correcta 1"
+					}
+				}
+			],
+			"sid": 856309378253118
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Correcta2",
+					"sid": 393737140456961
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 205574534349502,
+					"parameters": {
+						"layout": "Respuesta correcta 2"
+					}
+				}
+			],
+			"sid": 471390990754226
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Correcta3",
+					"sid": 873187895431469
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 692415470097035,
+					"parameters": {
+						"layout": "Repsueta correcta 3"
+					}
+				}
+			],
+			"sid": 161756871386668
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Corrrecta4",
+					"sid": 467950778758365
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 544859697856253,
+					"parameters": {
+						"layout": "Respuesta correcta 4"
+					}
+				}
+			],
+			"sid": 370377090623721
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Correcta5",
+					"sid": 183631850928331
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 469722732503293,
+					"parameters": {
+						"layout": "Respuesta correcta 5"
+					}
+				}
+			],
+			"sid": 233431125130565
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Correcta6",
+					"sid": 975336750944932
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 421156912096475,
+					"parameters": {
+						"layout": "Resuesta correcta 6"
+					}
+				}
+			],
+			"sid": 100687651669969
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Reiniciar",
+					"sid": 785195130648987
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 999416307266219,
+					"parameters": {
+						"layout": "Inicio"
+					}
+				}
+			],
+			"sid": 376139452746443
+		}
+	],
+	"sid": 788164326702605
+}
