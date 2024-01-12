@@ -36,6 +36,35 @@
 					}
 				},
 				{
+					"type": "Ilustración3removebgpreview2",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "Default",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 194,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 691,
+						"y": 232,
+						"width": 679.8624708091928,
+						"height": 510.1914209018727,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
 					"type": "FondoEnMosaico",
 					"properties": {
 						"initially-visible": true,

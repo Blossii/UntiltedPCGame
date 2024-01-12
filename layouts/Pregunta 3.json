@@ -19,10 +19,39 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 452,
-						"y": 274,
-						"width": 946.5922411837421,
-						"height": 473.29612059187104,
+						"x": 409.050241133786,
+						"y": 252.525120566893,
+						"width": 1032.49175891617,
+						"height": 516.245879458085,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "Ilustraciónremovebgpreview",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "Default",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 182,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 410,
+						"y": 159,
+						"width": 478.84117719679745,
+						"height": 359.33835307835926,
 						"originX": 0.5,
 						"originY": 0.5,
 						"color": [
